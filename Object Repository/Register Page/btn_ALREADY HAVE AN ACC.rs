@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_ALREADY HAVE AN ACC</name>
+   <tag></tag>
+   <elementGuidId>1d8ce178-151a-463f-b7ca-871314f0f180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.ALREADY_HAVE_AN_ACCOUNT.roboto-medium > a.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='registerPage']/article/sec-form/div[2]/label[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>048f0e91-66de-4ee4-99ed-0affc63f321b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>9852fede-882b-4a88-b5e1-93ae9a01d58d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>e3e7345a-4212-4821-84b1-0af2b4e97c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>ALREADY_HAVE_AN_ACCOUNT</value>
+      <webElementGuid>f0b44ea6-e99b-434e-a1a7-55bb5286a924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>login()</value>
+      <webElementGuid>f423cc31-8143-4e87-a91d-f23c6910dc94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>7fc5595c-c9f7-4b92-b239-6d1c245c9eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALREADY HAVE AN ACCOUNT?</value>
+      <webElementGuid>efb961c6-5438-42c8-9ad7-393241c479e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerPage&quot;)/article[1]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/div[@class=&quot;center&quot;]/label[@class=&quot;ALREADY_HAVE_AN_ACCOUNT roboto-medium&quot;]/a[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>9fd556cf-a362-442d-88ec-0a881fc80f89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='registerPage']/article/sec-form/div[2]/label[2]/a</value>
+      <webElementGuid>a9986706-6a02-4cfc-9872-a74bb6f92107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ALREADY HAVE AN ACCOUNT?')]</value>
+      <webElementGuid>070e5397-ee43-4d9e-8492-48c1725829a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTER'])[1]/following::a[1]</value>
+      <webElementGuid>49798855-422f-4844-b698-0bb5a8a6404d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I agree to the www.AdvantageOnlineShopping.com Conditions of Use and Privacy Notice'])[2]/following::a[1]</value>
+      <webElementGuid>38134a04-4be5-4ec7-8fbb-3400f4caca17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi ,'])[1]/preceding::a[1]</value>
+      <webElementGuid>3da40e4e-a27c-4132-9b0c-e80805637b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUE SHOPPING'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e17320d-d823-46a6-881b-d89635232f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[12]</value>
+      <webElementGuid>44fbc156-94f0-488c-a678-1fe186c91f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/a</value>
+      <webElementGuid>fcc78ca4-911f-4363-8bfb-de91e6c38a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'ALREADY HAVE AN ACCOUNT?' or . = 'ALREADY HAVE AN ACCOUNT?')]</value>
+      <webElementGuid>914f5fd2-091b-4609-86c2-34349c840d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
