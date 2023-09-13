@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_CREATE ACCOUNT title</name>
+   <tag></tag>
+   <elementGuidId>5d2cc739-b427-4bb2-bcae-c60a39dfcb91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.roboto-regular.sticky.fixedImportant.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='registerPage']/article/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>048847b0-4d50-415a-b1f9-42f3fd0c9094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular sticky fixedImportant ng-scope</value>
+      <webElementGuid>9d407e29-680c-43f6-a030-ba8d50381393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>CREATE_ACCOUNT</value>
+      <webElementGuid>0a61c2db-a98a-49f6-bbf6-672c049767b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CREATE ACCOUNT</value>
+      <webElementGuid>ec706cc9-b612-4ad7-ba3e-8a40646c3458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerPage&quot;)/article[1]/h3[@class=&quot;roboto-regular sticky fixedImportant ng-scope&quot;]</value>
+      <webElementGuid>588f36ee-1b88-4ee2-9e5b-faced7a607d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='registerPage']/article/h3</value>
+      <webElementGuid>28899555-0294-488b-970c-b8106eb83776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CREATE ACCOUNT'])[1]/following::h3[1]</value>
+      <webElementGuid>1904b736-b760-442e-89e6-bbc05d33707a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::h3[1]</value>
+      <webElementGuid>5a6600ef-e985-40f0-9021-329b748d526c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTICE'])[1]/preceding::h3[1]</value>
+      <webElementGuid>442b7afa-bc41-4eee-96dc-de1e39ea7941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT DETAILS'])[1]/preceding::h3[1]</value>
+      <webElementGuid>0f2439a2-276c-4425-9b51-7672e3866703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/h3</value>
+      <webElementGuid>17b07ff4-12ba-47f9-a9bf-1c6e6dd982af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'CREATE ACCOUNT' or . = 'CREATE ACCOUNT')]</value>
+      <webElementGuid>3e834312-89ae-4bcf-853f-86a96f3908d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

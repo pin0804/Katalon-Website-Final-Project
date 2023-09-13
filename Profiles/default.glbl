@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.advantageonlineshopping.com/#/'</initValue>
+      <name>Browser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>org.apache.commons.lang.RandomStringUtils.randomNumeric(5)</initValue>
+      <name>randomNumber5</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
