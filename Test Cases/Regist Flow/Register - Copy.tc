@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be0f8e8b-9db3-483e-8f9d-82af6b7e661f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd35c2eb-912a-4e38-a277-065c322b91c3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17397a17-6b90-465f-a452-528f99ce3d20</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c29597d-7bfc-45ba-993e-4ddc5a0aebad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>cd35c2eb-912a-4e38-a277-065c322b91c3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P4ssword'</defaultValue>
+      <description></description>
+      <id>17397a17-6b90-465f-a452-528f99ce3d20</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'test+123@domail.com'</defaultValue>
+      <description></description>
+      <id>2c29597d-7bfc-45ba-993e-4ddc5a0aebad</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

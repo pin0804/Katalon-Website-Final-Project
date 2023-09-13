@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "4A7F38B9A4FC0DB93A1D0E2D2CDC335C",
+  "keywordClasses": [
+    {
+      "name": "kw.utility.randomNumber",
+      "keywordMethods": [
+        {
+          "name": "RandomNumber5",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "RandomNumberCustom",
+          "parameters": [
+            {
+              "name": "number",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "RandomNumberCurrentTimeWithSeparator",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

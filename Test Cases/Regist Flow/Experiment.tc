@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Experiment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec960ae7-def4-491a-8011-502d8f04c359</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5d55b2c-bda0-4d59-abda-9874ad0921be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>839e188b-dd22-41cc-b993-c35c58f65bef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a240b40a-acc1-4918-8c0b-9db3b1c849e4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'usr'</defaultValue>
+      <description></description>
+      <id>a5d55b2c-bda0-4d59-abda-9874ad0921be</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>839e188b-dd22-41cc-b993-c35c58f65bef</id>
+      <masked>false</masked>
+      <name>email_baru</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a240b40a-acc1-4918-8c0b-9db3b1c849e4</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
