@@ -31,5 +31,5 @@ WebUI.verifyElementVisible(findTestObject('Homepage/Contact Us/txt_Subject'))
 
 WebUI.verifyElementVisible(findTestObject('Homepage/Contact Us/inpt__subject'))
 
-WebUI.verifyElementNotClickable(findTestObject('Homepage/Contact Us/txt_SEND'))
+WebUI.verifyElementNotClickable(findTestObject('Homepage/Contact Us/btn_SEND'))
 

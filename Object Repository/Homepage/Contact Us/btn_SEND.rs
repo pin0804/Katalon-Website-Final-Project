@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>txt_SEND</name>
+   <name>btn_SEND</name>
    <tag></tag>
    <elementGuidId>c97dada2-ffa1-4ca7-9d28-cd907154a012</elementGuidId>
    <selectorCollection>
