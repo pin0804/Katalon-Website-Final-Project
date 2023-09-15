@@ -43,15 +43,19 @@ WebUI.verifyElementNotClickable(findTestObject('Homepage/Contact Us/btn_SEND'))
 
 WebUI.click(findTestObject('Homepage/Contact Us/select_Product'))
 
-WebUI.click(findTestObject('Homepage/Contact Us/select_Product'))
-
-WebUI.click(findTestObject('Homepage/Contact Us/select_Category'))
-
 WebUI.click(findTestObject('Homepage/Contact Us/select_Category'))
 
 WebUI.setText(findTestObject('Homepage/Contact Us/inpt__email'), modified_email)
 
 WebUI.setText(findTestObject('Homepage/Contact Us/inpt__subject'), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."')
 
-WebUI.verifyElementClickable(findTestObject(null))
+WebUI.verifyElementClickable(findTestObject('Homepage/Contact Us/btn_SEND'))
+
+WebUI.click(findTestObject('Homepage/Contact Us/btn_SEND'))
+
+WebUI.waitForElementVisible(findTestObject('Homepage/Contact Us/contact success/txt_Thank you massage'), 0)
+
+WebUI.verifyElementVisible(findTestObject('Homepage/Contact Us/contact success/btn_CONTINUE SHOPPING'))
+
+WebUI.closeBrowser()
 
