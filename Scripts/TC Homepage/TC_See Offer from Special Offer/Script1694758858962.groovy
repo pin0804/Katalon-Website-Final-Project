@@ -33,3 +33,5 @@ WebUI.waitForElementVisible(findTestObject('Category Page/Product Profile Page/t
 
 WebUI.callTestCase(findTestCase('Reusable Test/TC_RT_PPP/TC_RT_Product Profile Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+

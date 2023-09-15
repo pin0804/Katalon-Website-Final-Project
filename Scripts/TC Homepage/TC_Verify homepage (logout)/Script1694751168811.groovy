@@ -57,3 +57,5 @@ WebUI.verifyElementPresent(findTestObject('Homepage/Footer/txt_company'), 0)
 
 WebUI.callTestCase(findTestCase('Reusable Test/TC_RT_Homepage/TC_Verify element footer'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.closeBrowser()
+
