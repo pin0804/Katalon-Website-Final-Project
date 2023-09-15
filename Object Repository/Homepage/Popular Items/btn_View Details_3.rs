@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_View Details_3</name>
+   <name>btn_View Details_3</name>
    <tag></tag>
    <elementGuidId>6833134a-fd04-481b-a126-bcb9204048cb</elementGuidId>
    <selectorCollection>
