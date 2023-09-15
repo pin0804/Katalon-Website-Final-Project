@@ -28,11 +28,11 @@ The following tasks have been automated as test cases:
 
 ## Test Suite
 
-There is one test suite named "Online Shopping Tests" that includes all test cases except for "TC - Import Jira." This test suite is designed to cover various aspects of the online shopping website.
+There is one test suite named "TS - All" that includes all test cases except for "TC - Import Jira." This test suite is designed to cover various aspects of the online shopping website.
 
 ## Note
 
-Please note that the testing conditions assume that the user is not logged in. The test cases mentioned above are focused on different functionalities of the website, including UI verification, interaction with forms, and error handling.
+Please note that the testing conditions assume that the user is **not logged in**. The test cases mentioned above are focused on different functionalities of the website, including UI verification, interaction with forms, and error handling.
 
 Feel free to explore the test cases and the test suite in the project for a deeper understanding of the automation testing approach.
 
