@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Agfina - Test Case Jira Import - Search for No Result
+Description: @Search
+
+Feature: Search for No Result
+
+As a user, I want to search for various items on the application and verify that no results are displayed when the search yields no matches.
+
+Scenario Outline: Verify no results are displayed for an empty search
+
+Given I am on the web's homepage
+When I perform a search for &lt;search_term>
+Then I should see a message indicating no results were found
+
+Scenario Outline: Verify no results are displayed for an invalid search term
+
+Given I am on the web's homepage
+When I perform a search for &lt;invalid_search_term>
+Then I should see a message indicating no results were found
+
+Scenario Outline: Verify no results are displayed for a search with special characters
+
+Given I am on the web's homepage
+When I perform a search for &lt;special_characters_search>
+Then I should see a message indicating no results were found
+
+Examples:
+| search_term | invalid_search_term   | special_characters_search |
+|| invalidTerm123 | @#$%^&amp;*()|
+||| 1+1=2 |
+||| &lt;script>alert(&quot;XSS&quot;);&lt;/script> |</description>
+   <name>WBP-9 Agfina - Test Case Jira Import - Search for No Result</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10034&quot;:&quot;@Search\n\nFeature: Search for No Result\n\nAs a user, I want to search for various items on the application and verify that no results are displayed when the search yields no matches.\n\nScenario Outline: Verify no results are displayed for an empty search\n\nGiven I am on the web\u0027s homepage\nWhen I perform a search for \u003csearch_term\u003e\nThen I should see a message indicating no results were found\n\nScenario Outline: Verify no results are displayed for an invalid search term\n\nGiven I am on the web\u0027s homepage\nWhen I perform a search for \u003cinvalid_search_term\u003e\nThen I should see a message indicating no results were found\n\nScenario Outline: Verify no results are displayed for a search with special characters\n\nGiven I am on the web\u0027s homepage\nWhen I perform a search for \u003cspecial_characters_search\u003e\nThen I should see a message indicating no results were found\n\nExamples:\n| search_term | invalid_search_term   | special_characters_search |\n|| invalidTerm123 | @#$%^\u0026*()|\n||| 1+1\u003d2 |\n||| \u003cscript\u003ealert(\&quot;XSS\&quot;);\u003c/script\u003e |&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i00047:&quot;},&quot;status&quot;:{&quot;id&quot;:10003,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://ksat08git.atlassian.net/&quot;,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/status/10003&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;WBP&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Website Based Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Agfina - Test Case Jira Import - Search for No Result&quot;,&quot;description&quot;:&quot;@Search\n\nFeature: Search for No Result\n\nAs a user, I want to search for various items on the application and verify that no results are displayed when the search yields no matches.\n\nScenario Outline: Verify no results are displayed for an empty search\n\nGiven I am on the web\u0027s homepage\nWhen I perform a search for \u003csearch_term\u003e\nThen I should see a message indicating no results were found\n\nScenario Outline: Verify no results are displayed for an invalid search term\n\nGiven I am on the web\u0027s homepage\nWhen I perform a search for \u003cinvalid_search_term\u003e\nThen I should see a message indicating no results were found\n\nScenario Outline: Verify no results are displayed for a search with special characters\n\nGiven I am on the web\u0027s homepage\nWhen I perform a search for \u003cspecial_characters_search\u003e\nThen I should see a message indicating no results were found\n\nExamples:\n| search_term | invalid_search_term   | special_characters_search |\n|| invalidTerm123 | @#$%^\u0026*()|\n||| 1+1\u003d2 |\n||| \u003cscript\u003ealert(\&quot;XSS\&quot;);\u003c/script\u003e |&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;finacontech@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Agfina Aliarahma&quot;,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/user?accountId\u003d712020%3A162d9d4f-8368-4534-85ae-3e0d263b99ad&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;finacontech@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Agfina Aliarahma&quot;,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/user?accountId\u003d712020%3A162d9d4f-8368-4534-85ae-3e0d263b99ad&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/issue/WBP-9/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/issue/10022&quot;,&quot;key&quot;:&quot;WBP-9&quot;,&quot;id&quot;:10022}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>9cf82ca7-76cc-4815-b968-663e0a3bf2e6</testCaseGuid>
+</TestCaseEntity>
