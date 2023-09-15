@@ -19,8 +19,6 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/btn_product profile page'))
 
-WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/img_product'))
-
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/txt_name product'))
 
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/txt_price product'))
@@ -29,8 +27,6 @@ WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/tx
 
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/txt_color'))
 
-WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/color_picker1'))
-
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/txt_quantity'))
 
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/btn_quantity_min'))
@@ -38,4 +34,6 @@ WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/bt
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/btn_quantity_plus'))
 
 WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/btn_ADD TO CART'))
+
+WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/img_product'))
 

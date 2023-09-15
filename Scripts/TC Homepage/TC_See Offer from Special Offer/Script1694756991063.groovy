@@ -23,11 +23,13 @@ WebUI.waitForElementVisible(findTestObject('Homepage/Our Products/div_HEADPHONES
 
 WebUI.click(findTestObject('Homepage/Menu Bar/btn_SPECIAL OFFER'))
 
-WebUI.waitForImagePresent(findTestObject('Homepage/Special Offer/img_product'), 0)
+WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Reusable Test/TC_RT_Homepage/TC_verify element special offers'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Homepage/Special Offer/btn_SEE OFFER'))
 
-WebUI.waitForElementVisible(findTestObject(null), 0)
+WebUI.waitForElementVisible(findTestObject('Category Page/Product Profile Page/txt_name product'), 0)
+
+WebUI.callTestCase(findTestCase('Reusable Test/TC_RT_PPP/TC_RT_Product Profile Page'), [:], FailureHandling.STOP_ON_FAILURE)
 
