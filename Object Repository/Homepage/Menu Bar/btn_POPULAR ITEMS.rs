@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_POPULAR ITEMS</name>
+   <tag></tag>
+   <elementGuidId>0828a7e9-996c-4df3-9f48-7fd755974bdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'POPULAR ITEMS')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>538b41e0-fd86-4875-9edf-1d62054b9007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>e4aa5aa0-84a3-4673-b7f8-fa3c25bedaef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>5c54bf1a-68ec-41dd-bf09-ca21d0f18e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu navLinks roboto-regular ng-scope</value>
+      <webElementGuid>844546ad-0301-4369-b722-89ddb96a161e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>gotoElement('popular_items')</value>
+      <webElementGuid>6eb24133-973e-4248-80d6-ddd866789309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>POPULAR_ITEMS</value>
+      <webElementGuid>c85b9f63-0860-4506-a8bd-42d8d9ae31f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>POPULAR ITEMS</value>
+      <webElementGuid>2f19689e-cc50-42d1-9f89-adf0c81b2fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/header[1]/nav[1]/ul[@class=&quot;roboto-light desktop-handler&quot;]/li[@class=&quot;nav-li-Links&quot;]/a[@class=&quot;menu navLinks roboto-regular ng-scope&quot;]</value>
+      <webElementGuid>4b30fc8f-2103-4005-a426-5c7538c91fd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'POPULAR ITEMS')]</value>
+      <webElementGuid>2b1119c1-201c-499b-8840-04fc390d4d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT US'])[1]/following::a[1]</value>
+      <webElementGuid>09267881-5a42-4103-a82a-ad02e91048a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::a[2]</value>
+      <webElementGuid>8be71ef1-38de-49dd-9316-7aca3f7d557a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPECIAL OFFER'])[1]/preceding::a[1]</value>
+      <webElementGuid>a5e7f6c3-a759-4826-85e4-cd74c5eadc31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OUR PRODUCTS'])[1]/preceding::a[2]</value>
+      <webElementGuid>00308bb3-8da6-4582-bdb9-6b7e1c90ccba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[9]</value>
+      <webElementGuid>e7dde1ef-d045-4ea0-a3b8-fcc8a886ac0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>e5923830-afcf-4073-95a5-7a37785abd70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'POPULAR ITEMS' or . = 'POPULAR ITEMS')]</value>
+      <webElementGuid>678df5d5-c8cd-497b-8955-1b592923791a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SPECIAL OFFER</name>
+   <tag></tag>
+   <elementGuidId>ac8cdc1b-e92c-4062-82d9-f731f1b2114e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'SPECIAL OFFER')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c571326d-aea3-4c61-ad0c-fe4a307f8dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>74913523-2c09-4cc1-a9f6-619b4c3dc405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>27814c1c-8698-48a4-9501-9c1ef487013f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu navLinks roboto-regular ng-scope</value>
+      <webElementGuid>78ab1175-0139-4379-b779-ba82114508c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>gotoElement('special_offer_items')</value>
+      <webElementGuid>518ed836-1d51-4636-b033-708333e75ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>SPACIAL_OFFER</value>
+      <webElementGuid>eb1ec2e0-9d5e-42d4-8d26-819308b9d194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SPECIAL OFFER</value>
+      <webElementGuid>eb5c1b4e-e905-4511-a6fb-602ee43e73ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/header[1]/nav[1]/ul[@class=&quot;roboto-light desktop-handler&quot;]/li[@class=&quot;nav-li-Links&quot;]/a[@class=&quot;menu navLinks roboto-regular ng-scope&quot;]</value>
+      <webElementGuid>d0d23a2d-a4e2-45c8-8570-78322bf2b6cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SPECIAL OFFER')]</value>
+      <webElementGuid>702bc8f2-2a24-4fc8-b4d1-d801f16b3cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POPULAR ITEMS'])[1]/following::a[1]</value>
+      <webElementGuid>32f25dfa-2e46-41da-8f32-ac5435b7f620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT US'])[1]/following::a[2]</value>
+      <webElementGuid>7fa49a03-2ac2-422d-a4b4-d0ddbfbc0e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OUR PRODUCTS'])[1]/preceding::a[1]</value>
+      <webElementGuid>8fad20ee-8326-4d0f-9456-80f0eac9071c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dvantage'])[1]/preceding::a[2]</value>
+      <webElementGuid>d1cb71cf-4fc2-491a-89fb-56a3e35a5504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[10]</value>
+      <webElementGuid>33ba0249-5c6c-4e76-8acc-53165ac7b05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>0b2e075c-5c55-4113-83d0-7d093b341b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'SPECIAL OFFER' or . = 'SPECIAL OFFER')]</value>
+      <webElementGuid>eb09b265-61a0-460b-8739-9679753acbd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

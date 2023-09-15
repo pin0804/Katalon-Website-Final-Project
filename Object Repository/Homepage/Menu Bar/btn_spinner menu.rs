@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_spinner menu</name>
+   <tag></tag>
+   <elementGuidId>402a718b-e5b8-4022-bee1-172ee68fd0b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#helpLink > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='helpLink']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f96d22f4-cb48-4574-80f5-8de80a546814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../css/images/Down_arrow.svg</value>
+      <webElementGuid>fdd49940-ae92-4e30-80f3-c919c099bd1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>12px</value>
+      <webElementGuid>66d37d58-b0d8-485d-bc50-bf551d5fff8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>7px</value>
+      <webElementGuid>618f4159-8fbe-4ff0-bbc0-69c59d83df1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;helpLink&quot;)/img[1]</value>
+      <webElementGuid>5fc77f87-fec8-4b04-978b-3be68b7a2977</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='helpLink']/img</value>
+      <webElementGuid>8f590a21-ca27-40c8-b825-97d8700fefb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Management Console'])[1]/following::img[1]</value>
+      <webElementGuid>bb23d34b-408e-48af-8783-e7df2228147e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AOS Versions'])[1]/following::img[1]</value>
+      <webElementGuid>885f68f1-e6e5-4da8-8135-3e658a255fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::img[1]</value>
+      <webElementGuid>34cbdea1-919a-48c9-bd32-a02a5372d43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AOS Versions'])[2]/preceding::img[1]</value>
+      <webElementGuid>fb4af6fa-1fdd-4d9d-ab07-3ab504144229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>789de0c0-67b1-4733-9d8a-c118f4eaa808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../css/images/Down_arrow.svg']</value>
+      <webElementGuid>40a069d9-49b9-49cb-83c7-82152a63a7a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

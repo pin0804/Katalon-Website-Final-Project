@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_name product_3</name>
+   <tag></tag>
+   <elementGuidId>a90cd0cb-e312-4ed8-b2b3-dad4893bcb71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p[name=&quot;popular_item_21_name&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='popular_items']/div/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fa9f48ce-96a1-4a64-83d3-b975b8f32b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>popular_item_21_name</value>
+      <webElementGuid>17b45739-778b-4e01-a95d-547ecc525a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>center productName roboto-medium ng-binding</value>
+      <webElementGuid>595537f8-2582-4b32-97e1-cae58bd736fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP ROAR PLUS WIRELESS SPEAKER</value>
+      <webElementGuid>c07a6a75-4b2f-4660-962e-1d1b0b875c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popular_items&quot;)/div[@class=&quot;grid-table center&quot;]/div[@class=&quot;ng-scope&quot;]/p[@class=&quot;center productName roboto-medium ng-binding&quot;]</value>
+      <webElementGuid>6dca76af-0b61-4491-bc5a-2b50ab323ae1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@name='popular_item_21_name']</value>
+      <webElementGuid>435008f7-4d41-4978-9111-2732cc65e6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='popular_items']/div/div[3]/p</value>
+      <webElementGuid>f4c7a24f-5bcb-45f1-aa7a-da38a54734cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[2]/following::p[1]</value>
+      <webElementGuid>5522ac36-0ad2-4166-a6fe-35dea3cfdca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[1]/following::p[2]</value>
+      <webElementGuid>126eb537-693c-405d-a7a9-287e6da4f110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[3]/preceding::p[1]</value>
+      <webElementGuid>243cf617-b1c2-4b4e-b626-c281000dba40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHAT WITH US'])[1]/preceding::p[1]</value>
+      <webElementGuid>aa417e6b-a576-43b2-adf8-43f73fb8b752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>f1100acd-5444-444f-a372-1aeb6bfc36fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@name = 'popular_item_21_name' and (text() = 'HP ROAR PLUS WIRELESS SPEAKER' or . = 'HP ROAR PLUS WIRELESS SPEAKER')]</value>
+      <webElementGuid>d975d725-c922-4b13-acf4-aa3252fc331d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
