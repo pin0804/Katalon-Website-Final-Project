@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_name product_1</name>
+   <tag></tag>
+   <elementGuidId>9fd373b3-1823-4b8d-bcaa-79de36b84053</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p[name=&quot;popular_item_16_name&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='POPULAR ITEMS'])[2]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4a7981cc-8108-4e5e-9c1a-23ccc6b48980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>popular_item_16_name</value>
+      <webElementGuid>fce040da-e0f7-42b2-be36-f6731fafd9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>center productName roboto-medium ng-binding</value>
+      <webElementGuid>59724fcb-2792-443c-9b30-ba114374e50f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP ELITEPAD 1000 G2 TABLET</value>
+      <webElementGuid>f46bfd3d-3331-4fb0-821a-2f0f8c20f225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popular_items&quot;)/div[@class=&quot;grid-table center&quot;]/div[@class=&quot;ng-scope&quot;]/p[@class=&quot;center productName roboto-medium ng-binding&quot;]</value>
+      <webElementGuid>3be5df7d-c9c4-4831-a574-ca959cefded2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@name='popular_item_16_name']</value>
+      <webElementGuid>f5355e3d-fb21-4d23-a38a-cc9c88ef1dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='popular_items']/div/div/p</value>
+      <webElementGuid>44ea8df7-956e-41e5-914c-a8ab5c31b3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POPULAR ITEMS'])[2]/following::p[1]</value>
+      <webElementGuid>1cd18d8b-fe9e-496a-9452-a4911db34479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[4]/following::p[1]</value>
+      <webElementGuid>fb6be45b-7625-4bf3-acbb-f513b23a2d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[1]/preceding::p[1]</value>
+      <webElementGuid>9f933646-6e64-4dd8-a08e-0003eeac476c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[2]/preceding::p[2]</value>
+      <webElementGuid>333fea53-d7e8-4d79-b19f-b95deece8ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[4]/div/div/p</value>
+      <webElementGuid>94d61670-41e6-41e1-aff0-df19c4696841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@name = 'popular_item_16_name' and (text() = 'HP ELITEPAD 1000 G2 TABLET' or . = 'HP ELITEPAD 1000 G2 TABLET')]</value>
+      <webElementGuid>901eda31-c434-4fed-a443-c68363258c46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

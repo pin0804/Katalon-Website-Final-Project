@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_banner3</name>
+   <tag></tag>
+   <elementGuidId>d3e8ef9e-1f07-435f-a7c2-d17496cff09b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='slider_explore_now']/div/div/div[3]/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d0dc0ba0-25a3-4dc3-ac75-bdadb0234ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>img.message | trustHtml</value>
+      <webElementGuid>3576ae8c-04b3-4eb4-adeb-3858bc672d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light ng-binding</value>
+      <webElementGuid>cea4a6f7-9fcd-4ba4-af05-7e67fe66c77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>START EXPLORING HP NOTEBOOKS</value>
+      <webElementGuid>bb1e5cc7-d8c6-4df3-a7d6-162d9d71ef0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider_explore_now&quot;)/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-length transition&quot;]/div[@class=&quot;imgSection ng-scope&quot;]/div[@class=&quot;container&quot;]/h2[@class=&quot;roboto-light ng-binding&quot;]</value>
+      <webElementGuid>265aae00-e878-4d25-bc1f-710c6e5847b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='slider_explore_now']/div/div/div[3]/div[2]/h2</value>
+      <webElementGuid>7cf5ba58-c97e-4611-8c01-411e7b57be47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[2]/following::h2[1]</value>
+      <webElementGuid>d301fb36-06df-4a60-abce-79e968d05163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[3]/preceding::h2[1]</value>
+      <webElementGuid>65f6e239-ccbe-4a23-a7d3-c0fc41a18ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL YOU WANT FROM A TABLET'])[2]/preceding::h2[1]</value>
+      <webElementGuid>5fa6efcc-fc9e-4ce1-92f4-1e02fd9beebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/h2</value>
+      <webElementGuid>2a87d409-ffc6-43d2-8d39-4746e0f9796f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'START EXPLORING HP NOTEBOOKS' or . = 'START EXPLORING HP NOTEBOOKS')]</value>
+      <webElementGuid>0797b0b2-a682-4234-adce-4aca71dd886d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

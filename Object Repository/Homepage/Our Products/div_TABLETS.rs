@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TABLETS</name>
+   <tag></tag>
+   <elementGuidId>06fbe2b9-0878-4165-a68f-3c874e73593c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tabletsImg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabletsImg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31834234-3a6d-45e0-b38f-22acd5df91da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tabletsImg</value>
+      <webElementGuid>145cb355-a5ec-431b-b52d-c59558273dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>TabletsCategory</value>
+      <webElementGuid>fc308299-1970-4761-a222-97dc7b4080e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>redirect('/category/' + categories[2].categoryName + '/' + categories[2].categoryId)</value>
+      <webElementGuid>e82e171f-9604-4a31-a618-c9866229e09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>f0301ff3-0366-42e6-bf42-b7c4c1edf576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>e4be79cf-366d-43f3-9eda-4e857a4185d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>a-sec-back-img</name>
+      <type>Main</type>
+      <value>tablets</value>
+      <webElementGuid>344788c4-4150-46c6-9236-0a8fcfc57f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>categoryCell</value>
+      <webElementGuid>503042ab-7374-4fab-ab02-91834c616c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                        TABLETS
+                        Shop Now
+                    
+                </value>
+      <webElementGuid>b66cb1f0-4034-4e6a-b351-08b0ee6e381b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabletsImg&quot;)</value>
+      <webElementGuid>6ae50ae7-1e39-49e6-ad13-f9d369debe4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='tabletsImg']</value>
+      <webElementGuid>d340d8f1-3cda-48cb-a7e4-eced19bb658f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='our_products']/div[2]/div/div[2]</value>
+      <webElementGuid>157604cd-8fb3-438d-b58c-75a2554caca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Now'])[1]/following::div[1]</value>
+      <webElementGuid>0c71f493-a4ca-4cb5-806a-9d3d206bbd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPEAKERS'])[1]/following::div[1]</value>
+      <webElementGuid>09c9fc50-9227-490c-becd-e8f5955cff1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div[2]/div/div[2]</value>
+      <webElementGuid>514a1c09-fdbc-4222-bba2-3b8ee3982324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'tabletsImg' and @href = 'javascript:void(0)' and (text() = '
+                    
+                        TABLETS
+                        Shop Now
+                    
+                ' or . = '
+                    
+                        TABLETS
+                        Shop Now
+                    
+                ')]</value>
+      <webElementGuid>158b0cef-904f-47ba-853d-e9a46be0da52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

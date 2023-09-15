@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_CONTACT US</name>
+   <tag></tag>
+   <elementGuidId>33a93c74-d598-4fd6-85d0-cb6ff424c34a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu.navLinks.roboto-regular.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'CONTACT US')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eca67337-4f91-4db4-a9fc-6970ea161199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>7fb93c7a-97d1-4450-a3c9-003c271112ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>9fe36e6e-51f5-48cc-b3df-ce55b5f64eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>gotoElement('contact_us')</value>
+      <webElementGuid>b90844dd-944e-443a-b2d1-4311bdf22673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu navLinks roboto-regular ng-scope</value>
+      <webElementGuid>d1bdaa92-912c-4f5c-bd96-107992473e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>CONTACT_US</value>
+      <webElementGuid>feb52c98-4f1a-4368-9b21-f3aa628f2872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTACT US</value>
+      <webElementGuid>9e97a177-e099-479e-932e-dd12ffece3c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/header[1]/nav[1]/ul[@class=&quot;roboto-light desktop-handler&quot;]/li[@class=&quot;nav-li-Links&quot;]/a[@class=&quot;menu navLinks roboto-regular ng-scope&quot;]</value>
+      <webElementGuid>12a73729-7e75-4edb-8718-81e5745c8ceb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CONTACT US')]</value>
+      <webElementGuid>78deffe2-5835-4b32-86ba-e68a8c03340f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::a[1]</value>
+      <webElementGuid>ff75cce2-5e08-4ea6-a36a-7d31a97043c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('TOP RESULTS FOR: ', '&quot;', '', '&quot;', '')])[1]/following::a[2]</value>
+      <webElementGuid>a77bfc96-883d-4079-ad6d-e16d122bcedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POPULAR ITEMS'])[1]/preceding::a[1]</value>
+      <webElementGuid>a0653cee-f721-4243-9002-55d1718255da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPECIAL OFFER'])[1]/preceding::a[2]</value>
+      <webElementGuid>8aeb92c7-ee8d-4c7f-b6a1-f15e70ce0072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[8]</value>
+      <webElementGuid>0a79f03d-c527-401a-9f75-a33866bd96d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>3815de04-7554-4b22-bf05-a151a2ef54d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'CONTACT US' or . = 'CONTACT US')]</value>
+      <webElementGuid>0283cfef-9faf-4174-af45-6a09ecec93a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_logo</name>
+   <tag></tag>
+   <elementGuidId>e08871d4-89ae-4618-b835-0048247d6369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN IN WITH FACEBOOK'])[1]/preceding::img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7384e5c2-7b7b-4626-93dd-0dbd9c6f9ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../css/images/logo.png</value>
+      <webElementGuid>e1077413-9c11-482a-aafc-6ba4278ed174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/login-modal[1]/div[@class=&quot;PopUp&quot;]/div[1]/div[@class=&quot;login ng-scope&quot;]/img[1]</value>
+      <webElementGuid>fba775ad-9672-4ba4-b237-3f7066e2b179</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN IN WITH FACEBOOK'])[1]/preceding::img[1]</value>
+      <webElementGuid>e59dd8ee-66fd-481c-b213-9c30aad42b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/preceding::img[1]</value>
+      <webElementGuid>873cac0a-cf95-41d6-8235-f77e8b468ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>7683ab9a-411e-43f0-a664-aa2da0095adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../css/images/logo.png']</value>
+      <webElementGuid>ccfbaa70-4e9c-4f37-a06f-c15e5453b91a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

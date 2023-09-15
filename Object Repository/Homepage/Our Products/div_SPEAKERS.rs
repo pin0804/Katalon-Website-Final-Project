@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SPEAKERS</name>
+   <tag></tag>
+   <elementGuidId>5f79f3e2-737a-459c-b3fe-aa570b28e35b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#speakersImg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='speakersImg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04f447b6-01e9-4341-8213-995c137b15e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>speakersImg</value>
+      <webElementGuid>0e6a15c4-b532-41e3-aaa9-27c41b2be2c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>SpeakersCategory</value>
+      <webElementGuid>828d23a6-5d54-40cd-a402-db1a9328ff6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>redirect('/category/' + categories[3].categoryName + '/' + categories[3].categoryId)</value>
+      <webElementGuid>aafc556b-ff55-416d-8dc5-968ef5590436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>1adccd09-0097-421b-a947-b5581644c9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>db9ef138-363b-4785-aec7-13930f64d127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SpeakersImg categoryCell</value>
+      <webElementGuid>de42f19b-8ca9-49fe-8d6e-af746d951986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>a-sec-back-img</name>
+      <type>Main</type>
+      <value>speakers</value>
+      <webElementGuid>442ad10f-f0b9-4285-8ca9-84f76236ca83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>a-slow-page</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d0186c77-3ca9-4904-9bea-bd33f50fa774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                        SPEAKERS
+                        Shop Now
+                    
+                </value>
+      <webElementGuid>a9a47665-2261-4681-8d03-54288a8ef012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;speakersImg&quot;)</value>
+      <webElementGuid>9591d21c-4f7c-4416-84e3-c05071c12066</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='speakersImg']</value>
+      <webElementGuid>39c83299-fd96-4ef0-ab60-93c5ec5f5f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='our_products']/div[2]/div/div</value>
+      <webElementGuid>1fcc21ae-c029-4a2d-93a0-c5a4775bcd98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEMO'])[1]/following::div[8]</value>
+      <webElementGuid>a5e6dbcd-bd8f-4440-8c3f-13c68cae65f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dvantage'])[1]/following::div[8]</value>
+      <webElementGuid>c99a8249-6bdf-4a66-9bbf-2e30a8876c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div[2]/div/div</value>
+      <webElementGuid>007e2735-e7a9-40f0-b82b-9d60660b99c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'speakersImg' and @href = 'javascript:void(0)' and (text() = '
+                    
+                        SPEAKERS
+                        Shop Now
+                    
+                ' or . = '
+                    
+                        SPEAKERS
+                        Shop Now
+                    
+                ')]</value>
+      <webElementGuid>b56e9dce-3a1d-4e7d-961f-7afe0ed65700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

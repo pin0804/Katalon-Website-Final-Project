@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_verify element homepage bar (logout)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e38d0f8c-6cbd-4df3-8fb3-c90d9065105c</testCaseGuid>
+</TestCaseEntity>

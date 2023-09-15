@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>color_picker1</name>
+   <tag></tag>
+   <elementGuidId>52fa7881-5809-450f-a739-06fa9b12aeac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rabbit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f584978f-bb1c-4dc7-9ba8-c7dc6d9d68ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>BLACK</value>
+      <webElementGuid>1a87073e-fffd-453a-a6de-02057a07dd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rabbit</value>
+      <webElementGuid>06372ad7-cfd2-458d-adc9-7fbaf5a09901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-repeat</name>
+      <type>Main</type>
+      <value>color in [] | sortArrayByColorName:product.colors</value>
+      <webElementGuid>789a3884-83c7-45b2-ba40-f8d0d35aa03f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productColor ng-scope colorSelected BLACK</value>
+      <webElementGuid>f012f97e-7d8b-47e3-93e4-492878dfd4e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-hide</name>
+      <type>Main</type>
+      <value>color.code == 'ABCDEF'</value>
+      <webElementGuid>2b7aef60-b426-4df4-8d6a-c4f701ad8758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-style</name>
+      <type>Main</type>
+      <value>color.code == 'FFFFFF' ?
+                                          {'backgroundColor': '#' + color.code, 'border': 'solid 1px #9d9d9d' } :
+                                          {'backgroundColor': '#' + color.code, 'border': 'solid 1px transparent'}</value>
+      <webElementGuid>092df134-914a-45d2-9c1f-d11bff157e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{ colorSelected : colorSelected.name == color.name , BLACK : colorSelected.name}</value>
+      <webElementGuid>fe72aabb-8fa5-49e2-8b79-647ed6b826b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>setColor(color)</value>
+      <webElementGuid>5dcf1c3e-a68e-4d78-a7c0-540749946875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productProperties&quot;)/div[@class=&quot;colors ng-scope&quot;]/div[1]/span[@id=&quot;rabbit&quot;]</value>
+      <webElementGuid>95edf753-4a84-4e35-95b0-233f70cea532</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='rabbit']</value>
+      <webElementGuid>d402676a-fa5b-437e-895d-a15a8ff1a9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productProperties']/div/div/span</value>
+      <webElementGuid>40d61558-0aea-4a58-b0a8-e262bd1ff5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color:'])[1]/following::span[1]</value>
+      <webElementGuid>c327ede7-92f3-49d3-ace4-b9103918c20c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[2]/following::span[1]</value>
+      <webElementGuid>e14cd3df-815d-4848-ad31-28aef5d1faed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity:'])[1]/preceding::span[2]</value>
+      <webElementGuid>e92b9fe5-9aa3-456d-aae5-3cd84bc2b2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Warranty'])[1]/preceding::span[2]</value>
+      <webElementGuid>27b585e0-a493-4e41-a454-bf150d16c842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>29c4d8b8-e34c-45e1-97ab-cc180df4a222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'BLACK' and @id = 'rabbit']</value>
+      <webElementGuid>7425a0cf-d1fa-4a4a-88f0-08a3dd2468b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

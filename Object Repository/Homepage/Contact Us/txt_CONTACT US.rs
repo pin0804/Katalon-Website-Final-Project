@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_CONTACT US</name>
+   <tag></tag>
+   <elementGuidId>6166df7e-35f7-4f16-bcaf-bf9e6bbda743</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.roboto-bold.contact_us.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='supportCover']/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e04478be-9cc2-457c-8cd0-918b4e47cc20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-bold contact_us ng-scope</value>
+      <webElementGuid>3911a582-84ae-445b-9d71-15d929eec337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>CONTACT_US</value>
+      <webElementGuid>714dacb6-38b4-47fb-baf6-9dc37af8b9f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTACT US</value>
+      <webElementGuid>095ad480-b33d-406b-9cff-535d0ef79c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportCover&quot;)/div[2]/h1[@class=&quot;roboto-bold contact_us ng-scope&quot;]</value>
+      <webElementGuid>d2bfb7a8-37a3-4633-8d35-9db5118cdeee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportCover']/div[2]/h1</value>
+      <webElementGuid>79f547c5-d6ec-49eb-97fe-fd9aa11fb026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHAT WITH US'])[1]/following::h1[1]</value>
+      <webElementGuid>687791f2-a3d5-433d-959a-9fd70a2f7d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[3]/following::h1[1]</value>
+      <webElementGuid>c3e2650b-4f0a-4aaa-8f95-fea8687b01c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[2]/preceding::h1[1]</value>
+      <webElementGuid>39178411-f6af-41b2-9082-30d69ff38a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[2]/preceding::h1[1]</value>
+      <webElementGuid>88d21382-cd9f-498f-b7f3-a10484d451ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h1</value>
+      <webElementGuid>989ffcc6-5b8b-490b-8529-5c4ba0e3d1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'CONTACT US' or . = 'CONTACT US')]</value>
+      <webElementGuid>18914c29-6251-4607-8134-c2f6a2326257</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

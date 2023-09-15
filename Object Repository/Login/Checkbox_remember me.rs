@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox_remember me</name>
+   <tag></tag>
+   <elementGuidId>c7b344c3-a891-477f-a017-213b32bb0354</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;remember_me&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='remember_me']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ecc58a7c-829d-4f5a-8c5c-3309880e87ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>remember_me</value>
+      <webElementGuid>b140dbb5-1862-4f3e-97c2-de80873cb660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>b527935f-e5be-42d6-bb72-05a1216fb8fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>mainCtrl.rememberMe</value>
+      <webElementGuid>829e66f0-bb22-4f7e-af64-92af7c9e3abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>b216dcdd-190a-4607-aeaa-68f7aa45709b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/login-modal[1]/div[@class=&quot;PopUp&quot;]/div[1]/div[@class=&quot;login ng-scope&quot;]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/div[@class=&quot;left option&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid&quot;]</value>
+      <webElementGuid>365d910c-9a6d-4d5e-9e90-eb9e1dcdef73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='remember_me']</value>
+      <webElementGuid>a68a26b5-0391-4aa7-8bcb-d395a9d52c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/following::input[1]</value>
+      <webElementGuid>e5144776-7fa3-495e-b4dd-c22b51d79408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/following::input[2]</value>
+      <webElementGuid>712b72b4-19be-4167-a6b2-811e4d2584e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REMEMBER ME'])[1]/preceding::input[1]</value>
+      <webElementGuid>69f51da5-e793-4f65-bd87-1852cb60c503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN IN'])[1]/preceding::input[1]</value>
+      <webElementGuid>573f7beb-1730-4ca0-bc01-e644dd30cb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sec-form/div/input</value>
+      <webElementGuid>33a61507-2920-4161-a774-b94044947476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'remember_me' and @type = 'checkbox']</value>
+      <webElementGuid>32e3ae48-c191-44fa-9428-1ddbc0ca3a54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

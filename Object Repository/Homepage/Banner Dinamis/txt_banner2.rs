@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_banner2</name>
+   <tag></tag>
+   <elementGuidId>8009ed37-9397-4c26-8a5b-f2c9719b3baf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='slider_explore_now']/div/div/div[2]/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a056c8fa-4a11-4798-883f-17fbb0d8bc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>img.message | trustHtml</value>
+      <webElementGuid>a23f0ba1-09aa-4a54-b4cc-d181cbb09a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light ng-binding</value>
+      <webElementGuid>a2b3369c-040c-4502-8594-36a93f4dc3e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EXPLORE OUR LATEST INNOVATIVE PRODUCTS</value>
+      <webElementGuid>ee88ffe3-cdcc-4d5d-9acc-a0a660f7fc01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider_explore_now&quot;)/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-length transition&quot;]/div[@class=&quot;imgSection ng-scope&quot;]/div[@class=&quot;container&quot;]/h2[@class=&quot;roboto-light ng-binding&quot;]</value>
+      <webElementGuid>5af8ff65-7ed2-4b11-b3b2-fd66707cadbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='slider_explore_now']/div/div/div[2]/div[2]/h2</value>
+      <webElementGuid>792f6b0f-c09b-440d-a7df-43ce703181a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[1]/following::h2[1]</value>
+      <webElementGuid>487dcab5-7dc9-4a44-bae6-9940fa9bccf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL YOU WANT FROM A TABLET'])[1]/following::h2[1]</value>
+      <webElementGuid>adde6f0f-4c41-447b-8aad-c40251874066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[2]/preceding::h2[1]</value>
+      <webElementGuid>ba5dd50e-7895-4fb9-9aec-499abb9775a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='START EXPLORING HP NOTEBOOKS'])[1]/preceding::h2[1]</value>
+      <webElementGuid>bceb7d45-11f3-4adb-a087-473d94b54dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/h2</value>
+      <webElementGuid>d66a1d94-4aad-435b-abc5-111f8ae21ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'EXPLORE OUR LATEST INNOVATIVE PRODUCTS' or . = 'EXPLORE OUR LATEST INNOVATIVE PRODUCTS')]</value>
+      <webElementGuid>1d19343a-1b5b-405f-9968-9a764dcdaab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

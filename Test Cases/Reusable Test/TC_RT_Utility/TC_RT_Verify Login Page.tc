@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RT_Verify Login Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58bf6192-6d78-42fa-8577-c342c5f3ee9a</testCaseGuid>
+</TestCaseEntity>

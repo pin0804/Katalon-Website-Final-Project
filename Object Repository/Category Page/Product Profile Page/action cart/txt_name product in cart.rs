@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_name product in cart</name>
+   <tag></tag>
+   <elementGuidId>ccd86bd7-7e70-4661-bc47-e6ea37867dd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product']/td[2]/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>bac58be3-c0ef-40ca-9aeb-b78d8707663e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>119955a0-73b3-43ea-bfb6-b02bce359674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BOSE SOUNDLINK BLUETOOTH SP...</value>
+      <webElementGuid>4c9fd174-0c57-484e-a7bf-76ed91dde657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product&quot;)/td[2]/a[1]/h3[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>2b5582e8-afc7-423a-a0a1-b0005414da23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product']/td[2]/a/h3</value>
+      <webElementGuid>d849264d-f809-4a91-9477-3b3b17289970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your shopping cart is empty'])[1]/following::h3[1]</value>
+      <webElementGuid>6c382c41-e263-42fa-aacf-9c2f70244f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::h3[1]</value>
+      <webElementGuid>3d04e209-5db8-4325-b940-047e2b8445d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY: 3'])[1]/preceding::h3[1]</value>
+      <webElementGuid>769a8cea-71c3-440d-a416-d5e8f48984a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>62a20083-1d2b-4b40-9561-8aaadc082d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'BOSE SOUNDLINK BLUETOOTH SP...' or . = 'BOSE SOUNDLINK BLUETOOTH SP...')]</value>
+      <webElementGuid>8ab0b05d-1f0c-4fb0-b048-60b1996f6716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

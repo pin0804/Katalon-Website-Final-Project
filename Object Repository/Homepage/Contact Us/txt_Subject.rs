@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Subject</name>
+   <tag></tag>
+   <elementGuidId>2a7a8dc5-d377-4cf9-a4f5-741e0f3d263e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.Subject.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='supportCover']/div[2]/sec-form/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0aee379b-eb73-41dd-bb1c-7ff014bfde19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Subject ng-binding</value>
+      <webElementGuid>6ba180f4-62a3-49cb-a2a8-79ea116ea09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Subject</value>
+      <webElementGuid>3468aaa9-4161-444c-96c5-a5db2e571d62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportCover&quot;)/div[2]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/div[@class=&quot;splitter&quot;]/div[@class=&quot;smollPadding  margin-right&quot;]/label[@class=&quot;Subject ng-binding&quot;]</value>
+      <webElementGuid>2f57d761-eaec-4e82-a6e4-6a2494ffe356</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportCover']/div[2]/sec-form/div[2]/div/label</value>
+      <webElementGuid>ffb9f9a6-ca05-4298-bed7-975f59de57a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[4]/following::label[1]</value>
+      <webElementGuid>f60587c2-0fe5-445b-a5ca-769192abc1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::label[2]</value>
+      <webElementGuid>20ea3ca6-cd96-48bd-8e5e-ef17ae0e0b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEND'])[1]/preceding::label[2]</value>
+      <webElementGuid>15e8a056-6529-4671-9ded-ad1f8d94b909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sec-form/div[2]/div/label</value>
+      <webElementGuid>fcd596ef-8f2d-44d0-afaf-7f7a56be44b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '* Subject' or . = '* Subject')]</value>
+      <webElementGuid>b976850d-93d1-46be-8d9c-498a3c0ce42f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

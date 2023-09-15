@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Send form Contact Us (Logout)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f916e84-0046-49c2-9164-28765152b511</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55cee497-83fc-4d14-84bb-8477b5e9263c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user+' + GlobalVariable.randomNumber5 + '@domain.com'</defaultValue>
+      <description></description>
+      <id>55cee497-83fc-4d14-84bb-8477b5e9263c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
