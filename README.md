@@ -1,43 +1,32 @@
 # Katalon Website Final Project - Online Shopping
 
-## Objective
+## Purpose
+This project serves as an independent project assignment during the bootcamp. The goal is to demonstrate the automation testing skills acquired during the bootcamp on a real-world web application.
 
-This project serves as the final project assignment for a self-paced bootcamp. The main objective of this project is to demonstrate proficiency in web automation testing using Katalon Studio. The target website for testing is [https://www.advantageonlineshopping.com/#/](https://www.advantageonlineshopping.com/#/).
+## Website Under Test
+- **Website**: [Advantage Online Shopping](https://www.advantageonlineshopping.com/#/)
 
-## Test Cases
+## Automation Tasks
+The tasks being automated in this project are as follows:
 
-The following tasks have been automated as test cases:
+1. **Verify Homepage**: Verify the user interface (UI) of the homepage to ensure it matches the expected design.
 
-1. **Verify Homepage**:
-   - Purpose: Verify the user interface (UI) of the homepage according to specifications.
+2. **See Offer from Special Offer**: Navigate to the "Special Offer" section and validate the offers displayed.
 
-2. **See Offer from Special Offer**:
-   - Purpose: Navigate to the special offer page and verify the offers available.
+3. **Send Form Contact Us**: Fill out and submit the "Contact Us" form and confirm that it behaves as expected.
 
-3. **Send Form Contact Us**:
-   - Purpose: Fill out and submit the "Contact Us" form.
+4. **Verify Add to Cart**: From the category page, verify the functionality of the "Add to Cart" button.
 
-4. **Verify Add to Cart (From Category Page)**:
-   - Purpose: Add a product to the cart from the category page and verify the cart contents.
+5. **Login Invalid**: Test the scenario where an invalid login is attempted (account not registered) and ensure the appropriate error message is displayed.
 
-5. **Login Invalid (Account Not Registered)**:
-   - Purpose: Attempt to log in with invalid credentials (account not registered) and verify the error message.
+6. **TC - Import Jira**: Import Jira test case data. Note that this test case is expected to fail because the script has not been created.
 
-6. **TC - Import Jira (Expected Error)**:
-   - Purpose: Attempt to import a Jira issue (expected to fail as the script for this feature is not available).
+## Test Suites
+This project contains one test suite that encompasses all the test cases mentioned above, except for "TC - Import Jira." The test suite is designed to cover essential functionalities of the Advantage Online Shopping website.
 
-## Test Suite
-
-There is one test suite named "TS - All" that includes all test cases except for "TC - Import Jira." This test suite is designed to cover various aspects of the online shopping website.
-
-## Note
-
-Please note that the testing conditions assume that the user is **not logged in**. The test cases mentioned above are focused on different functionalities of the website, including UI verification, interaction with forms, and error handling.
-
-Feel free to explore the test cases and the test suite in the project for a deeper understanding of the automation testing approach.
-
-For any questions or issues related to this project, please reach out to finacontech@gmail.com.
+## Testing Note
+Please note that the testing conditions assume that the user is not logged in. These test cases aim to validate the behavior of the website from the perspective of a **non-logged-in** user.
 
 ---
 
-Created by Agfina Aliarahma
+Feel free to adapt this README to your project by replacing the placeholder information with the actual details of your project. You can also add more sections or information as needed to provide a comprehensive overview of your automation testing project.
