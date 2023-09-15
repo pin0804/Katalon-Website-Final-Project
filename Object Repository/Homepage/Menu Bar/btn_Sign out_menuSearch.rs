@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//svg[@id = 'menuSearch']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'menuSearch']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

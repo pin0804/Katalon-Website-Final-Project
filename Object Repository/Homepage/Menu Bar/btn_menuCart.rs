@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//svg[@id = 'menuCart']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'menuCart']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
