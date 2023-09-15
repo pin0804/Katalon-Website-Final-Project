@@ -35,14 +35,14 @@ Once Katalon Studio is installed, clone this repository to your local machine or
 
 ## Usage
 
+To execute the automated test cases, follow these steps:
 1. Open Katalon Studio.
 2. Import this project into Katalon Studio.
-3. Open the test suite or test cases you wish to run.
-4. Configure the necessary API endpoint and parameters.
-5. Execute the API tests by running the test cases or test suite.
-6. View the test results in the generated reports.
+3. Configure the necessary settings for your test execution environment.
+4. Run the test suite containing the test cases of your choice.
 
-Make sure to refer to the API documentation for details on the available endpoints and their expected behavior.
+Make sure you have set up the required dependencies and configurations before running the test suite.
+
 
 ## Contributing
 
