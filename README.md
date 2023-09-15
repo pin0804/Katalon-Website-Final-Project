@@ -3,6 +3,8 @@
 ## Purpose
 This project serves as an independent project assignment during the bootcamp. The goal is to demonstrate the automation testing skills acquired during the bootcamp on a real-world web application.
 
+Test Plan docs : [Test Plan](https://docs.google.com/document/d/1W38y_0QLzMtvHCO2uMhuqTH4jLsJuWlV/edit?usp=sharing&ouid=115576201016350834095&rtpof=true&sd=true)
+
 ## Website Under Test
 - **Website**: [Advantage Online Shopping](https://www.advantageonlineshopping.com/#/)
 
