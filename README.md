@@ -27,6 +27,35 @@ This project contains one test suite that encompasses all the test cases mention
 ## Testing Note
 Please note that the testing conditions assume that the user is not logged in. These test cases aim to validate the behavior of the website from the perspective of a **non-logged-in** user.
 
+## Installation and Setup
+
+To get started with this project, you need to have Katalon Studio installed. You can download it from the [official Katalon website](https://www.katalon.com/download/).
+
+Once Katalon Studio is installed, clone this repository to your local machine or download it as a ZIP file.
+
+## Usage
+
+1. Open Katalon Studio.
+2. Import this project into Katalon Studio.
+3. Open the test suite or test cases you wish to run.
+4. Configure the necessary API endpoint and parameters.
+5. Execute the API tests by running the test cases or test suite.
+6. View the test results in the generated reports.
+
+Make sure to refer to the API documentation for details on the available endpoints and their expected behavior.
+
+## Contributing
+
+Contributions are welcome! If you have improvements or additional test cases to add, please create a pull request with your proposed changes.
+
+## Issue Reporting
+
+If you encounter any issues or have questions, please create an issue in this repository.
+
 ---
 
 Feel free to adapt this README to your project by replacing the placeholder information with the actual details of your project. You can also add more sections or information as needed to provide a comprehensive overview of your automation testing project.
+
+Created by Agfina ALiarahma.
+---
+
