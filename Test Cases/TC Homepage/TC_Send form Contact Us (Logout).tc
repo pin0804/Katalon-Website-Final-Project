@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Send form Contact Us</name>
+   <name>TC_Send form Contact Us (Logout)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0f916e84-0046-49c2-9164-28765152b511</testCaseGuid>

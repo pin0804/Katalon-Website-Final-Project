@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_See Offer from Special Offer</name>
+   <name>TC_See Offer from Special Offer(logout)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>5ea1ae1f-9f48-4d0e-9dda-afb3e5521ee0</testCaseGuid>
