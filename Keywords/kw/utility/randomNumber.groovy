@@ -29,11 +29,11 @@ public class randomNumber {
 	/*
 	 * Generate random number with exact 5 char
 	 * */
-	@Keyword 
+	@Keyword
 	def RandomNumber5() {
 		org.apache.commons.lang.RandomStringUtils.randomNumeric(5)
 	}
-	
+
 	/*
 	 * Generate random number with custom char
 	 * */
@@ -41,19 +41,19 @@ public class randomNumber {
 	def RandomNumberCustom(int number) {
 		org.apache.commons.lang.RandomStringUtils.randomNumeric(number)
 	}
-	
+
 	/*
-     * Generate random number with CURRENT YEAR-MONTH-DAY_HOUR-MINUTE-SECOND
-     * expected: yyyy-MM-dd_HH-mm-ss
-     * */
-    @Keyword
-    def RandomNumberCurrentTimeWithSeparator() {
-        //define formatting
-        def format = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss")
-        //get current date and time
-        def currentDate = new Date()
-        //Format the date and time
-        def randomWithCurrentTime = format.format(currentDate)
-        
-    }
+	 * Generate random number with CURRENT YEAR-MONTH-DAY_HOUR-MINUTE-SECOND
+	 * expected: yyyy-MM-dd_HH-mm-ss
+	 * */
+	@Keyword
+	def RandomNumberCurrentTimeWithSeparator() {
+		//define formatting
+		def format = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss")
+		//get current date and time
+		def currentDate = new Date()
+		//Format the date and time
+		def randomWithCurrentTime = format.format(currentDate)
+
+	}
 }
