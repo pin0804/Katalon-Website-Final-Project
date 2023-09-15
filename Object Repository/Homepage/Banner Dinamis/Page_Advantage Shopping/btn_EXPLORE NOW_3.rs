@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_EXPLORE NOW</name>
+   <name>btn_EXPLORE NOW_3</name>
    <tag></tag>
-   <elementGuidId>fa85db69-e8a8-4dcf-9936-54137a0a5c4e</elementGuidId>
+   <elementGuidId>ec5597e2-5ab1-457a-8e81-4c133bb54710</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@name='explore_now_btn'])[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[4]/preceding::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>839ed1dc-9733-4790-a558-b0b99d5e52c2</webElementGuid>
+      <webElementGuid>e5f97163-4707-4290-9d2b-cfeb2f653e25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>explore_now_btn</value>
-      <webElementGuid>831413a0-29e3-4305-99a9-ffbc34c12742</webElementGuid>
+      <webElementGuid>1441dbb6-fc6d-4982-b693-5abfb3baf57d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>redirect('/category/' + categories[img.categoryId].categoryName + '/' + categories[img.categoryId].categoryId)</value>
-      <webElementGuid>a1bde763-494c-4fee-bef6-95223802291b</webElementGuid>
+      <webElementGuid>0b2ac8e7-eb44-4d73-9a28-bc3e34e5eb57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>translate</name>
       <type>Main</type>
       <value>EXPLORE_NOW</value>
-      <webElementGuid>0ee98cad-0fd9-4117-8081-6ca12d20f36e</webElementGuid>
+      <webElementGuid>3963bdaf-4f3e-431b-8a1a-f416ddc35eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a4a59bc3-c391-48ef-9aa7-ae8e981c687d</webElementGuid>
+      <webElementGuid>3db79a55-e1dd-41b1-ad03-f947a9c0dc6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-scope</value>
-      <webElementGuid>b27f23a5-d0f4-4ea0-afdd-d69adf5e5676</webElementGuid>
+      <webElementGuid>936de89b-57a1-4a55-be5b-6fbcd6b5c118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EXPLORE NOW</value>
-      <webElementGuid>6ac337b7-091b-4108-a0b7-2258423b17fe</webElementGuid>
+      <webElementGuid>e670b99e-3062-460b-bfa0-69b997da0438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,55 +78,63 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;slider_explore_now&quot;)/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-length transition&quot;]/div[@class=&quot;imgSection ng-scope&quot;]/div[@class=&quot;container&quot;]/button[@class=&quot;ng-scope&quot;]</value>
-      <webElementGuid>ac2dd322-633f-46dd-ac82-b7555f70cd20</webElementGuid>
+      <webElementGuid>5c84ecb1-3ae6-40b7-af8d-8d873a5a4f6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@name='explore_now_btn'])[2]</value>
-      <webElementGuid>b75a5b4d-345c-4388-ad69-3f2cd63da86e</webElementGuid>
+      <value>(//button[@name='explore_now_btn'])[3]</value>
+      <webElementGuid>053b82b8-f925-422f-9c37-71aad34d6f9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//article[@id='slider_explore_now']/div/div/div[2]/div[2]/button</value>
-      <webElementGuid>6d71f167-ca21-4249-97b1-de2672158f79</webElementGuid>
+      <value>//article[@id='slider_explore_now']/div/div/div[3]/div[2]/button</value>
+      <webElementGuid>3e924498-668d-4589-ac15-2c9b61f9bf0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[1]/following::button[1]</value>
-      <webElementGuid>67686e8d-ca3e-4399-b29c-10ebc88cd796</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='START EXPLORING HP NOTEBOOKS'])[1]/following::button[1]</value>
+      <webElementGuid>dc25ea49-3c57-47ed-8dc7-8a49abf2d8df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='START EXPLORING HP NOTEBOOKS'])[1]/preceding::button[1]</value>
-      <webElementGuid>e2500335-7076-434b-830e-a69b6096c03e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[2]/following::button[1]</value>
+      <webElementGuid>b3645cfa-255d-44d5-92e6-8be49518abaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[3]/preceding::button[1]</value>
-      <webElementGuid>2242a4f5-7f72-4e13-a6a0-6731a4c35078</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL YOU WANT FROM A TABLET'])[2]/preceding::button[1]</value>
+      <webElementGuid>19573ef2-b95a-4f72-8e9d-47c0df535b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[4]/preceding::button[1]</value>
+      <webElementGuid>2718a8d8-8118-4c5c-89cb-f5749a750478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/button</value>
-      <webElementGuid>cee6acd2-cea1-4bbd-935b-259ab9a0adb3</webElementGuid>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>c3b4b18f-dcf3-4198-aa22-e1a57cf0f51d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'explore_now_btn' and (text() = 'EXPLORE NOW' or . = 'EXPLORE NOW')]</value>
-      <webElementGuid>2bded626-a7b5-467f-97c1-19f80b66580f</webElementGuid>
+      <webElementGuid>79c47f07-4a05-44b5-96de-f050e690fe06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

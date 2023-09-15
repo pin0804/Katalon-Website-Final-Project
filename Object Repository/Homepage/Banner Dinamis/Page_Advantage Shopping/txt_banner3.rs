@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_START EXPLORING HP NOTEBOOKS</name>
+   <name>txt_banner3</name>
    <tag></tag>
-   <elementGuidId>946ae318-1dde-4134-9529-116137eeb5fd</elementGuidId>
+   <elementGuidId>d3e8ef9e-1f07-435f-a7c2-d17496cff09b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>1b9680ae-9c48-4e7e-b75a-46ed592908f2</webElementGuid>
+      <webElementGuid>d0dc0ba0-25a3-4dc3-ac75-bdadb0234ad2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>ng-bind-html</name>
       <type>Main</type>
       <value>img.message | trustHtml</value>
-      <webElementGuid>4c05bfa1-877d-4634-852f-2ca3ab2cfa3f</webElementGuid>
+      <webElementGuid>3576ae8c-04b3-4eb4-adeb-3858bc672d5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>roboto-light ng-binding</value>
-      <webElementGuid>1457a24c-80b8-4fe4-87c9-2671f5e141ef</webElementGuid>
+      <webElementGuid>cea4a6f7-9fcd-4ba4-af05-7e67fe66c77f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>START EXPLORING HP NOTEBOOKS</value>
-      <webElementGuid>a66e559d-ecc1-4022-b6ed-a0be9c648b9d</webElementGuid>
+      <webElementGuid>bb1e5cc7-d8c6-4df3-a7d6-162d9d71ef0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;slider_explore_now&quot;)/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-length transition&quot;]/div[@class=&quot;imgSection ng-scope&quot;]/div[@class=&quot;container&quot;]/h2[@class=&quot;roboto-light ng-binding&quot;]</value>
-      <webElementGuid>1df0cd86-87f3-455e-b992-8d3c8134967c</webElementGuid>
+      <webElementGuid>265aae00-e878-4d25-bc1f-710c6e5847b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='slider_explore_now']/div/div/div[3]/div[2]/h2</value>
-      <webElementGuid>78ebab33-8498-4cb4-800a-4b728f338431</webElementGuid>
+      <webElementGuid>7cf5ba58-c97e-4611-8c01-411e7b57be47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[2]/following::h2[1]</value>
-      <webElementGuid>18b2f46f-08a0-4505-bcb8-1d8a34ab16a0</webElementGuid>
+      <webElementGuid>d301fb36-06df-4a60-abce-79e968d05163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[3]/preceding::h2[1]</value>
-      <webElementGuid>4f27eaa7-63d3-45ed-89dd-14813488b568</webElementGuid>
+      <webElementGuid>65f6e239-ccbe-4a23-a7d3-c0fc41a18ba0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL YOU WANT FROM A TABLET'])[2]/preceding::h2[1]</value>
-      <webElementGuid>f143dc0b-c368-46d0-a645-b62ee80ab4fd</webElementGuid>
+      <webElementGuid>5fa6efcc-fc9e-4ce1-92f4-1e02fd9beebb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/h2</value>
-      <webElementGuid>83f3e47e-4313-45e3-8a86-4a69906444d1</webElementGuid>
+      <webElementGuid>2a87d409-ffc6-43d2-8d39-4746e0f9796f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'START EXPLORING HP NOTEBOOKS' or . = 'START EXPLORING HP NOTEBOOKS')]</value>
-      <webElementGuid>a2a8a36e-c306-4f3d-8251-3bd052031e26</webElementGuid>
+      <webElementGuid>0797b0b2-a682-4234-adce-4aca71dd886d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

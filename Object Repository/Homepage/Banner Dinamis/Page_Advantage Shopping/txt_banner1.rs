@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_ALL YOU WANT FROM A TABLET</name>
+   <name>txt_banner1</name>
    <tag></tag>
-   <elementGuidId>b49984a5-fff1-49fc-a7a3-852b195e7e10</elementGuidId>
+   <elementGuidId>f4672e00-b128-4803-b9a2-6e3aa01cf8ef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//article[@id='slider_explore_now']/div/div/div/div[2]/h2</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[1]/preceding::h2[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>c97f8a94-d9b1-40ac-ba8d-831722f642c8</webElementGuid>
+      <webElementGuid>79d1c083-ae30-4a59-9c72-81c422208ee3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>ng-bind-html</name>
       <type>Main</type>
       <value>img.message | trustHtml</value>
-      <webElementGuid>b38fde34-71e1-40a8-8341-d1a180d771df</webElementGuid>
+      <webElementGuid>6267cdf4-2c64-4107-83bb-2172b4f451c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>roboto-light ng-binding</value>
-      <webElementGuid>6f6835f9-8dc7-4330-925d-e85faa98926e</webElementGuid>
+      <webElementGuid>03086158-4f3c-4f21-8be3-34e4c838907d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ALL YOU WANT FROM A TABLET</value>
-      <webElementGuid>1f8e8547-f21c-4470-a925-fd32ab35a1d2</webElementGuid>
+      <webElementGuid>83120fbe-d8be-4d61-893d-ec2052d420b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;slider_explore_now&quot;)/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-length transition&quot;]/div[@class=&quot;imgSection ng-scope&quot;]/div[@class=&quot;container&quot;]/h2[@class=&quot;roboto-light ng-binding&quot;]</value>
-      <webElementGuid>a8ba7086-62f6-4213-8b30-78af5c6df734</webElementGuid>
+      <webElementGuid>57d99937-c7d6-4922-9222-c369db4a2bd6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='slider_explore_now']/div/div/div/div[2]/h2</value>
-      <webElementGuid>d624b388-d916-4d4a-a8e6-c4b1f00e57d8</webElementGuid>
+      <webElementGuid>5932a8b9-0f45-442a-b828-8055cf88455a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SEE OFFER'])[1]/following::h2[1]</value>
-      <webElementGuid>2c2caa5f-a9f8-4d93-b3b6-7f290bc3be55</webElementGuid>
+      <webElementGuid>2866632a-78b1-45bc-8acc-5998fc11df32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HP Pavilion 15z Touch Laptop'])[1]/following::h2[1]</value>
-      <webElementGuid>21f40309-787d-46f8-b511-83d05c97f631</webElementGuid>
+      <webElementGuid>91d0136e-cfb0-4172-9695-cf2a25509a5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE NOW'])[1]/preceding::h2[1]</value>
-      <webElementGuid>435234a5-cde1-4ddd-a87f-78e9db97abf7</webElementGuid>
+      <webElementGuid>57da88b1-08e6-4263-818b-88e3c2b9411e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>f1bf5e19-8243-4324-bf11-d268a4732e3e</webElementGuid>
+      <webElementGuid>4c6b082b-b76a-417c-8f3a-0987bf40a770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'ALL YOU WANT FROM A TABLET' or . = 'ALL YOU WANT FROM A TABLET')]</value>
-      <webElementGuid>e669ae8b-bc36-4bf3-a70e-986ada751262</webElementGuid>
+      <webElementGuid>fdfc8fa1-deed-4811-b62b-085fa0538104</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
