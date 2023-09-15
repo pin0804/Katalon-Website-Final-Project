@@ -23,5 +23,32 @@ WebUI.waitForElementPresent(findTestObject('Homepage/Our Products/div_HEADPHONES
 
 WebUI.click(findTestObject('Homepage/Our Products/div_SPEAKERS'))
 
-WebUI.waitForElementVisible(findTestObject(null), 0)
+WebUI.waitForElementVisible(findTestObject('Category Page/txt_category name'), 0)
+
+WebUI.callTestCase(findTestCase('Reusable Test/TC_RT_Category Page/TC_verify element Category Page'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Category Page/first_product'))
+
+WebUI.waitForElementVisible(findTestObject('Category Page/Product Profile Page/img_product'), 0)
+
+WebUI.callTestCase(findTestCase('Reusable Test/TC_RT_PPP/TC_RT_Product Profile Page'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Category Page/Product Profile Page/color_picker1'))
+
+WebUI.doubleClick(findTestObject('Category Page/Product Profile Page/btn_quantity_plus'))
+
+WebUI.click(findTestObject('Category Page/Product Profile Page/btn_quantity_min'))
+
+WebUI.click(findTestObject('Category Page/Product Profile Page/btn_ADD TO CART'))
+
+WebUI.waitForElementVisible(findTestObject('Category Page/Product Profile Page/action cart/body_action cart (product)'), 
+    0)
+
+WebUI.verifyElementVisible(findTestObject('Category Page/Product Profile Page/action cart/cart_indicator'), FailureHandling.STOP_ON_FAILURE)
+
+def nameproductincart = WebUI.getText(findTestObject('Category Page/Product Profile Page/action cart/txt_name product in cart'))
+
+println(nameproductincart)
+
+WebUI.closeBrowser()
 
